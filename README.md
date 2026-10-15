@@ -133,7 +133,7 @@ your-book/
 
 - 本项目**仅供个人学习研究使用**，非商业用途。
 - 所有内容来源于互联网，我们不拥有版权。
-- 如有侵权，请联系 [me@ichochy.com](mailto:me@ichochy.com) 及时处理。
+- 如有侵权，请联系 [qim.dev@icloud.com](mailto:qim.dev@icloud.com) 及时处理。
 - **强烈建议**支持正版，购买官方教材与音频。
 
 ---
@@ -172,5 +172,5 @@ your-book/
 
 **作者**：iChochy  
 **Blog**：https://ichochy.com  
-**Email**：me@ichochy.com  
+**Email**：qim.dev@icloud.com  
 **GitHub**：https://github.com/ichochy/nce
